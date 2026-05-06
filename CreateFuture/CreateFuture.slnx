@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="createfuture.client/createfuture.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="CreateFuture.Server/CreateFuture.Server.csproj" />
+</Solution>

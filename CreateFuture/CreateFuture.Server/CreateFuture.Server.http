@@ -1,0 +1,6 @@
+@CreateFuture.Server_HostAddress = http://localhost:5186
+
+GET {{CreateFuture.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
